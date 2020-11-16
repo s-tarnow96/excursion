@@ -25,3 +25,8 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+footer h3 {
+    text-align: right;
+    color: gray;
+}
